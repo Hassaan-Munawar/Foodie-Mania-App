@@ -1,0 +1,32 @@
+
+#nav {
+    height: 80px !important;
+    background-color: #3498DB !important;
+    margin-bottom: 30px !important;
+    border-radius: 10px !important;
+    color: white !important;
+
+}
+
+#btns {
+    margin-top: 15px !important;
+    margin-right: 5px !important;
+}
+
+.d {
+    display: inline-block !important;
+}
+
+#logo {
+    margin-left: 10px !important;
+    margin-top: 5px !important;
+    border-radius: 10px !important;
+}
+
+.color {
+    background-color: #f9f9f9 !important;
+}
+
+.ml {
+    margin-left: 15px !important;
+}

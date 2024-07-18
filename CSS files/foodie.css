@@ -1,0 +1,41 @@
+
+#nav {
+    height: 80px !important;
+    background-color: #3498DB !important;
+    margin-bottom: 30px !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+
+#prod {
+    margin-top: 15px !important;
+    margin-right: 10px !important;
+
+}
+
+#logo {
+    margin-left: 10px !important;
+    margin-top: 5px !important;
+    border-radius: 10px !important;
+}
+
+#shop {
+    color: black !important;
+    position: absolute !important;
+    right: 113px !important;
+    top: 10px !important;
+    border: 1px solid white !important;
+    background-color: white !important;
+    width: 20px !important;
+    border-radius: 10px !important;
+    text-align: center !important;
+}
+.ml{
+  margin-left: 15px !important;
+}
+.d{
+    display: inline-block !important;
+}
+#mr{
+    margin-right: 5px !important;
+}

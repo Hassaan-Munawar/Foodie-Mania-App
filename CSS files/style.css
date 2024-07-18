@@ -1,0 +1,39 @@
+body,
+html {
+    height: 100% !important;
+    margin: 0 !important;
+}
+
+.hero {
+    background-color: #EAECEE !important;
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.hero-content {
+    background: rgba(0, 0, 0, 0.7) !important;
+    padding: 2rem !important;
+    border-radius: 10px !important;
+}
+
+.btn-custom {
+    margin: 10px !important;
+}
+
+#logo {
+    border-radius: 10px !important;
+    margin-top: 5px !important;
+}
+
+.bg {
+    background-color: #3498DB !important;
+    height: 80px !important;
+}
+
+.color {
+    color: white !important;
+}
